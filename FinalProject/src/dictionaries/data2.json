@@ -1,0 +1,137 @@
+{
+    "created_at": "Tue Nov 19 14:33:02 +0000 2019",
+    "id": 1196798542934708226,
+    "id_str": "1196798542934708226",
+    "text": "Phineas Fisher Offers $100,000 Bounty to Hack Banks and Oil Companies - It\u2019s a reward for hacktivists and criminals\u2026 https://t.co/NI8eEZoXMl",
+    "truncated": true,
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+            {
+                "url": "https://t.co/NI8eEZoXMl",
+                "expanded_url": "https://twitter.com/i/web/status/1196798542934708226",
+                "display_url": "twitter.com/i/web/status/1\u2026",
+                "indices": [
+                    117,
+                    140
+                ]
+            }
+        ]
+    },
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">The Angry Bear</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 826549394606546946,
+        "id_str": "826549394606546946",
+        "name": "The Angry Bear",
+        "screen_name": "iratusursi",
+        "location": "127.0.0.1, I\u2019ll see you there.",
+        "description": "Iratus Ursi = Latin for the Angry Bear. Technocrat. Civil Rights Vigilante. Antagonist to the repressive, racist, sexist, deep state, extremist establishment.",
+        "url": null,
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 1496,
+        "friends_count": 72,
+        "listed_count": 2,
+        "created_at": "Tue Jan 31 21:55:07 +0000 2017",
+        "favourites_count": 166,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "verified": false,
+        "statuses_count": 1781,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "000000",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1181086291527528449/T2CHqdw__normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1181086291527528449/T2CHqdw__normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/826549394606546946/1570428353",
+        "profile_link_color": "000000",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "000000",
+        "profile_text_color": "000000",
+        "profile_use_background_image": false,
+        "has_extended_profile": true,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": null,
+        "follow_request_sent": null,
+        "notifications": null,
+        "translator_type": "none"
+    },
+    "geo": {
+        "type": "Point",
+        "coordinates": [
+            42.35793572,
+            -71.09775265
+        ]
+    },
+    "coordinates": {
+        "type": "Point",
+        "coordinates": [
+            -71.09775265,
+            42.35793572
+        ]
+    },
+    "place": {
+        "id": "8193d87541f11dfb",
+        "url": "https://api.twitter.com/1.1/geo/id/8193d87541f11dfb.json",
+        "place_type": "city",
+        "name": "Cambridge",
+        "full_name": "Cambridge, MA",
+        "country_code": "US",
+        "country": "United States",
+        "contained_within": [],
+        "bounding_box": {
+            "type": "Polygon",
+            "coordinates": [
+                [
+                    [
+                        -71.160356,
+                        42.352429
+                    ],
+                    [
+                        -71.064398,
+                        42.352429
+                    ],
+                    [
+                        -71.064398,
+                        42.4039663
+                    ],
+                    [
+                        -71.160356,
+                        42.4039663
+                    ]
+                ]
+            ]
+        },
+        "attributes": {}
+    },
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en"
+}

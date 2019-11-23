@@ -1,0 +1,29 @@
+hospital: 150
+hospitals: 119
+schools: 57
+school: 176
+university: 24
+SSN: 5
+ssn: 33
+social security: 6
+banks: 44
+financial: 351
+finance: 161
+retailer: 10
+online retailer: 1
+political: 46
+small business: 101
+nation: 675
+nations: 292
+state: 414
+healthcare: 264
+energy: 79
+public sector: 11
+private sector: 6
+government: 499
+water: 39
+transportation: 10
+control systems: 16
+telecommunications: 4
+telephone: 9
+cellphone: 6

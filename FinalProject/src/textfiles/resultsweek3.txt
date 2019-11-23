@@ -1,0 +1,39 @@
+buffer overflow: 48
+overflow attack: 23
+injection: 34
+sql: 28
+xxe: 5
+sensitive data: 67
+social security: 4
+ssn: 39
+misconfiguration: 15
+XSS: 218
+DDoS: 1191
+malware: 2120
+cookies: 4
+theft: 135
+fraud: 495
+ransomware: 4366
+phishing: 1322
+zero-day: 39
+birthday: 2
+DoS: 1264
+drive-by: 32
+password: 775
+brute force: 4
+insider attacks: 4
+dictionary: 1
+third party: 17
+third-party: 108
+IoT: 4105
+state-sponsored: 96
+nation-state: 17
+xss: 48
+XXE: 19
+SQL: 131
+idle: 1
+middleman: 27
+man in the middle: 1
+port hack: 2
+server: 709
+servers: 500
